@@ -1,0 +1,3581 @@
+{
+  "events": [
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "lecture",
+      "course": "Electronics",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "instructor": "د. ايمان البقري",
+      "room": "Room 1",
+      "day": "Monday",
+      "start": 9,
+      "end": 11,
+      "page": 1,
+      "id": "E001",
+      "audience": [
+        "L1-GEN-S1",
+        "L1-GEN-S2",
+        "L1-GEN-S3",
+        "L1-GEN-S4",
+        "L1-GEN-S5",
+        "L1-GEN-S6",
+        "L1-GEN-S7",
+        "L1-GEN-S8",
+        "L1-GEN-S9"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Introduction To Computer Science",
+      "sections": [
+        1
+      ],
+      "instructor": "م. عبد الله العربي",
+      "room": "Lab 2",
+      "day": "Monday",
+      "start": 11,
+      "end": 13,
+      "page": 1,
+      "id": "E002",
+      "audience": [
+        "L1-GEN-S1"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Introduction To Computer Science",
+      "sections": [
+        3
+      ],
+      "instructor": "م. محمد نافع",
+      "room": "Lab 1",
+      "day": "Monday",
+      "start": 11,
+      "end": 13,
+      "page": 1,
+      "id": "E003",
+      "audience": [
+        "L1-GEN-S3"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Electronics",
+      "sections": [
+        1,
+        2,
+        3
+      ],
+      "instructor": "م. يحيى",
+      "room": "Auditorium 1",
+      "day": "Monday",
+      "start": 13,
+      "end": 15,
+      "page": 1,
+      "id": "E004",
+      "audience": [
+        "L1-GEN-S1",
+        "L1-GEN-S2",
+        "L1-GEN-S3"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Introduction To Computer Science",
+      "sections": [
+        2
+      ],
+      "instructor": "م. عبد الله العربي",
+      "room": "Lab 4",
+      "day": "Tuesday",
+      "start": 11,
+      "end": 13,
+      "page": 1,
+      "id": "E005",
+      "audience": [
+        "L1-GEN-S2"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Introduction To Computer Science",
+      "sections": [
+        8
+      ],
+      "instructor": "م. رامي صبحي",
+      "room": "Lab 4",
+      "day": "Tuesday",
+      "start": 9,
+      "end": 11,
+      "page": 1,
+      "id": "E006",
+      "audience": [
+        "L1-GEN-S8"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Introduction To Computer Science",
+      "sections": [
+        9
+      ],
+      "instructor": "م. عبد الله العربي",
+      "room": "Lab 1",
+      "day": "Tuesday",
+      "start": 9,
+      "end": 11,
+      "page": 1,
+      "id": "E007",
+      "audience": [
+        "L1-GEN-S9"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Introduction To Computer Science",
+      "sections": [
+        5
+      ],
+      "instructor": "م. رامي صبحي",
+      "room": "Lab 3",
+      "day": "Tuesday",
+      "start": 11,
+      "end": 13,
+      "page": 1,
+      "id": "E008",
+      "audience": [
+        "L1-GEN-S5"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Introduction To Computer Science",
+      "sections": [
+        6
+      ],
+      "instructor": "م. عبد الله العربي",
+      "room": "Lab 4",
+      "day": "Monday",
+      "start": 13,
+      "end": 15,
+      "page": 1,
+      "id": "E009",
+      "audience": [
+        "L1-GEN-S6"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Electronics",
+      "sections": [
+        7,
+        8,
+        9
+      ],
+      "instructor": "م.م ميرنا",
+      "room": "Classroom 1",
+      "day": "Tuesday",
+      "start": 11,
+      "end": 13,
+      "page": 1,
+      "id": "E010",
+      "audience": [
+        "L1-GEN-S7",
+        "L1-GEN-S8",
+        "L1-GEN-S9"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Introduction To Computer Science",
+      "sections": [
+        4
+      ],
+      "instructor": "م. عبد الله العربي",
+      "room": "Lab 4",
+      "day": "Tuesday",
+      "start": 13,
+      "end": 15,
+      "page": 1,
+      "id": "E011",
+      "audience": [
+        "L1-GEN-S4"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Introduction To Computer Science",
+      "sections": [
+        7
+      ],
+      "instructor": "م. رامي صبحي",
+      "room": "Lab 7",
+      "day": "Tuesday",
+      "start": 13,
+      "end": 15,
+      "page": 1,
+      "id": "E012",
+      "audience": [
+        "L1-GEN-S7"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "section",
+      "course": "Electronics",
+      "sections": [
+        4,
+        5,
+        6
+      ],
+      "instructor": "م.م ميرنا",
+      "room": "Auditorium 2",
+      "day": "Tuesday",
+      "start": 15,
+      "end": 17,
+      "page": 1,
+      "id": "E013",
+      "audience": [
+        "L1-GEN-S4",
+        "L1-GEN-S5",
+        "L1-GEN-S6"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "lecture",
+      "course": "Introduction To Computer Science",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "instructor": "د. عمرو شاويش",
+      "room": "Room 1",
+      "day": "Monday",
+      "start": 15,
+      "end": 17,
+      "page": 1,
+      "id": "E014",
+      "audience": [
+        "L1-GEN-S1",
+        "L1-GEN-S2",
+        "L1-GEN-S3",
+        "L1-GEN-S4",
+        "L1-GEN-S5",
+        "L1-GEN-S6",
+        "L1-GEN-S7",
+        "L1-GEN-S8",
+        "L1-GEN-S9"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "lecture",
+      "course": "Physics",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "instructor": "د. دعاء كبير",
+      "room": "Room 1",
+      "day": "Wednesday",
+      "start": 11,
+      "end": 13,
+      "page": 1,
+      "id": "E015",
+      "audience": [
+        "L1-GEN-S1",
+        "L1-GEN-S2",
+        "L1-GEN-S3",
+        "L1-GEN-S4",
+        "L1-GEN-S5",
+        "L1-GEN-S6",
+        "L1-GEN-S7",
+        "L1-GEN-S8",
+        "L1-GEN-S9"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "lecture",
+      "course": "Math1",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "instructor": "د. منتدب من كلية علوم",
+      "room": "Room 1",
+      "day": "Wednesday",
+      "start": 13,
+      "end": 15,
+      "page": 1,
+      "id": "E016",
+      "audience": [
+        "L1-GEN-S1",
+        "L1-GEN-S2",
+        "L1-GEN-S3",
+        "L1-GEN-S4",
+        "L1-GEN-S5",
+        "L1-GEN-S6",
+        "L1-GEN-S7",
+        "L1-GEN-S8",
+        "L1-GEN-S9"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "lecture",
+      "course": "Math 0",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "instructor": "د. احمد بكير",
+      "room": "Auditorium 1",
+      "day": "Wednesday",
+      "start": 15,
+      "end": 17,
+      "page": 1,
+      "id": "E017",
+      "audience": [
+        "L1-GEN-S1",
+        "L1-GEN-S2",
+        "L1-GEN-S3",
+        "L1-GEN-S4",
+        "L1-GEN-S5",
+        "L1-GEN-S6",
+        "L1-GEN-S7",
+        "L1-GEN-S8",
+        "L1-GEN-S9"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "lecture",
+      "course": "Interpersonal Communication",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "instructor": "د. الاء سميح",
+      "room": "Room 1",
+      "day": "Thursday",
+      "start": 9,
+      "end": 11,
+      "page": 1,
+      "id": "E018",
+      "audience": [
+        "L1-GEN-S1",
+        "L1-GEN-S2",
+        "L1-GEN-S3",
+        "L1-GEN-S4",
+        "L1-GEN-S5",
+        "L1-GEN-S6",
+        "L1-GEN-S7",
+        "L1-GEN-S8",
+        "L1-GEN-S9"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "lecture",
+      "course": "Computer Law",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "instructor": "د. ولاء محمد",
+      "room": "Room 1",
+      "day": "Wednesday",
+      "start": 9,
+      "end": 11,
+      "page": 1,
+      "id": "E019",
+      "audience": [
+        "L1-GEN-S1",
+        "L1-GEN-S2",
+        "L1-GEN-S3",
+        "L1-GEN-S4",
+        "L1-GEN-S5",
+        "L1-GEN-S6",
+        "L1-GEN-S7",
+        "L1-GEN-S8",
+        "L1-GEN-S9"
+      ]
+    },
+    {
+      "program": "L1-GEN",
+      "program_label": "Level 1 - General",
+      "type": "lecture",
+      "course": "General English Language",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "instructor": "د. اسماء الشحيمى",
+      "room": "Room 1",
+      "day": "Thursday",
+      "start": 13,
+      "end": 15,
+      "page": 1,
+      "id": "E020",
+      "audience": [
+        "L1-GEN-S1",
+        "L1-GEN-S2",
+        "L1-GEN-S3",
+        "L1-GEN-S4",
+        "L1-GEN-S5",
+        "L1-GEN-S6",
+        "L1-GEN-S7",
+        "L1-GEN-S8",
+        "L1-GEN-S9"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Computer Architecture",
+      "sections": [
+        1
+      ],
+      "instructor": "م. عبدالرحمن سعد",
+      "room": "Lab 1",
+      "day": "Saturday",
+      "start": 9,
+      "end": 11,
+      "page": 2,
+      "id": "E021",
+      "audience": [
+        "L2-GEN-S1"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Object Oriented Programming",
+      "sections": [
+        2
+      ],
+      "instructor": "م.م اسماء",
+      "room": "Lab 4",
+      "day": "Saturday",
+      "start": 9,
+      "end": 11,
+      "page": 2,
+      "id": "E022",
+      "audience": [
+        "L2-GEN-S2"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Data Communications",
+      "sections": [
+        3
+      ],
+      "instructor": "م. محمود الفقي",
+      "room": "Lab 2",
+      "day": "Saturday",
+      "start": 9,
+      "end": 11,
+      "page": 2,
+      "id": "E023",
+      "audience": [
+        "L2-GEN-S3"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Computer Architecture",
+      "sections": [
+        6
+      ],
+      "instructor": "م. دنيا ياسر",
+      "room": "Lab 5",
+      "day": "Saturday",
+      "start": 9,
+      "end": 11,
+      "page": 2,
+      "id": "E024",
+      "audience": [
+        "L2-GEN-S6"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Object Oriented Programming",
+      "sections": [
+        1
+      ],
+      "instructor": "م. يحيى",
+      "room": "Lab 2",
+      "day": "Saturday",
+      "start": 11,
+      "end": 13,
+      "page": 2,
+      "id": "E025",
+      "audience": [
+        "L2-GEN-S1"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Data Communications",
+      "sections": [
+        2
+      ],
+      "instructor": "م. نورهان",
+      "room": "Lab 3",
+      "day": "Saturday",
+      "start": 11,
+      "end": 13,
+      "page": 2,
+      "id": "E026",
+      "audience": [
+        "L2-GEN-S2"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Computer Architecture",
+      "sections": [
+        3
+      ],
+      "instructor": "م. دنيا ياسر",
+      "room": "Lab 4",
+      "day": "Saturday",
+      "start": 11,
+      "end": 13,
+      "page": 2,
+      "id": "E027",
+      "audience": [
+        "L2-GEN-S3"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Data Communications",
+      "sections": [
+        6
+      ],
+      "instructor": "م. محمود الفقي",
+      "room": "Lab 5",
+      "day": "Saturday",
+      "start": 11,
+      "end": 13,
+      "page": 2,
+      "id": "E028",
+      "audience": [
+        "L2-GEN-S6"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Data Communications",
+      "sections": [
+        1
+      ],
+      "instructor": "م. نورهان",
+      "room": "Lab 5",
+      "day": "Saturday",
+      "start": 13,
+      "end": 15,
+      "page": 2,
+      "id": "E029",
+      "audience": [
+        "L2-GEN-S1"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Computer Architecture",
+      "sections": [
+        4
+      ],
+      "instructor": "م. عبدالرحمن سعد",
+      "room": "Lab 1",
+      "day": "Saturday",
+      "start": 13,
+      "end": 15,
+      "page": 2,
+      "id": "E030",
+      "audience": [
+        "L2-GEN-S4"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Computer Architecture",
+      "sections": [
+        5
+      ],
+      "instructor": "م. دنيا ياسر",
+      "room": "Lab 2",
+      "day": "Saturday",
+      "start": 13,
+      "end": 15,
+      "page": 2,
+      "id": "E031",
+      "audience": [
+        "L2-GEN-S5"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Databases",
+      "sections": [
+        7
+      ],
+      "instructor": "م. عماد توفيق",
+      "room": "Lab 3",
+      "day": "Saturday",
+      "start": 13,
+      "end": 15,
+      "page": 2,
+      "id": "E032",
+      "audience": [
+        "L2-GEN-S7"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Object Oriented Programming",
+      "sections": [
+        4
+      ],
+      "instructor": "م. يحيى",
+      "room": "Lab 6",
+      "day": "Saturday",
+      "start": 15,
+      "end": 17,
+      "page": 2,
+      "id": "E033",
+      "audience": [
+        "L2-GEN-S4"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Data Communications",
+      "sections": [
+        5
+      ],
+      "instructor": "م. نورهان",
+      "room": "Lab 3",
+      "day": "Saturday",
+      "start": 15,
+      "end": 17,
+      "page": 2,
+      "id": "E034",
+      "audience": [
+        "L2-GEN-S5"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Data Communications",
+      "sections": [
+        7
+      ],
+      "instructor": "م. محمود الفقي",
+      "room": "Lab 1",
+      "day": "Saturday",
+      "start": 15,
+      "end": 17,
+      "page": 2,
+      "id": "E035",
+      "audience": [
+        "L2-GEN-S7"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "lecture",
+      "course": "Databases",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "instructor": "د. ابتسام عادل",
+      "room": "Room 1",
+      "day": "Sunday",
+      "start": 9,
+      "end": 11,
+      "page": 2,
+      "id": "E036",
+      "audience": [
+        "L2-GEN-S1",
+        "L2-GEN-S2",
+        "L2-GEN-S3",
+        "L2-GEN-S4",
+        "L2-GEN-S5",
+        "L2-GEN-S6",
+        "L2-GEN-S7"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "lecture",
+      "course": "Social Context Of Computing",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "instructor": "أ.د. عمرو ابو هاني / د. سعيد عشيبة",
+      "room": "Room 1",
+      "day": "Sunday",
+      "start": 11,
+      "end": 13,
+      "page": 2,
+      "id": "E037",
+      "audience": [
+        "L2-GEN-S1",
+        "L2-GEN-S2",
+        "L2-GEN-S3",
+        "L2-GEN-S4",
+        "L2-GEN-S5",
+        "L2-GEN-S6",
+        "L2-GEN-S7"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Databases",
+      "sections": [
+        3
+      ],
+      "instructor": "م. محمد نافع",
+      "room": "Lab 2",
+      "day": "Sunday",
+      "start": 13,
+      "end": 15,
+      "page": 2,
+      "id": "E038",
+      "audience": [
+        "L2-GEN-S3"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Data Communications",
+      "sections": [
+        4
+      ],
+      "instructor": "م. نورهان",
+      "room": "Lab 3",
+      "day": "Sunday",
+      "start": 13,
+      "end": 15,
+      "page": 2,
+      "id": "E039",
+      "audience": [
+        "L2-GEN-S4"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Object Oriented Programming",
+      "sections": [
+        5
+      ],
+      "instructor": "م. عبدالرحمن خالد",
+      "room": "Lab 6",
+      "day": "Sunday",
+      "start": 13,
+      "end": 15,
+      "page": 2,
+      "id": "E040",
+      "audience": [
+        "L2-GEN-S5"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Object Oriented Programming",
+      "sections": [
+        3
+      ],
+      "instructor": "م. عبدالرحمن خالد",
+      "room": "Lab 6",
+      "day": "Sunday",
+      "start": 15,
+      "end": 17,
+      "page": 2,
+      "id": "E041",
+      "audience": [
+        "L2-GEN-S3"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Databases",
+      "sections": [
+        4
+      ],
+      "instructor": "م. مصطفى هندي",
+      "room": "Lab 5",
+      "day": "Sunday",
+      "start": 15,
+      "end": 17,
+      "page": 2,
+      "id": "E042",
+      "audience": [
+        "L2-GEN-S4"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Databases",
+      "sections": [
+        1
+      ],
+      "instructor": "م. مصطفى هندي",
+      "room": "Lab 2",
+      "day": "Monday",
+      "start": 9,
+      "end": 11,
+      "page": 2,
+      "id": "E043",
+      "audience": [
+        "L2-GEN-S1"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Databases",
+      "sections": [
+        5
+      ],
+      "instructor": "م. محمد نافع",
+      "room": "Lab 3",
+      "day": "Monday",
+      "start": 9,
+      "end": 11,
+      "page": 2,
+      "id": "E044",
+      "audience": [
+        "L2-GEN-S5"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Object Oriented Programming",
+      "sections": [
+        6
+      ],
+      "instructor": "م. عبدالرحمن خالد",
+      "room": "Lab 6",
+      "day": "Monday",
+      "start": 9,
+      "end": 11,
+      "page": 2,
+      "id": "E045",
+      "audience": [
+        "L2-GEN-S6"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "lecture",
+      "course": "Computer Architecture",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "instructor": "د. رشا منتصر",
+      "room": "Room 1",
+      "day": "Monday",
+      "start": 11,
+      "end": 13,
+      "page": 2,
+      "id": "E046",
+      "audience": [
+        "L2-GEN-S1",
+        "L2-GEN-S2",
+        "L2-GEN-S3",
+        "L2-GEN-S4",
+        "L2-GEN-S5",
+        "L2-GEN-S6",
+        "L2-GEN-S7"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "lecture",
+      "course": "Math III",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "instructor": "د. وفاء",
+      "room": "Room 1",
+      "day": "Monday",
+      "start": 13,
+      "end": 15,
+      "page": 2,
+      "id": "E047",
+      "audience": [
+        "L2-GEN-S1",
+        "L2-GEN-S2",
+        "L2-GEN-S3",
+        "L2-GEN-S4",
+        "L2-GEN-S5",
+        "L2-GEN-S6",
+        "L2-GEN-S7"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Databases",
+      "sections": [
+        2
+      ],
+      "instructor": "م. مصطفى هندي",
+      "room": "Lab 4",
+      "day": "Monday",
+      "start": 15,
+      "end": 17,
+      "page": 2,
+      "id": "E048",
+      "audience": [
+        "L2-GEN-S2"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Databases",
+      "sections": [
+        6
+      ],
+      "instructor": "م. محمد نافع",
+      "room": "Lab 7",
+      "day": "Monday",
+      "start": 15,
+      "end": 17,
+      "page": 2,
+      "id": "E049",
+      "audience": [
+        "L2-GEN-S6"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Object Oriented Programming",
+      "sections": [
+        7
+      ],
+      "instructor": "م. يحيى",
+      "room": "Lab 1",
+      "day": "Monday",
+      "start": 15,
+      "end": 17,
+      "page": 2,
+      "id": "E050",
+      "audience": [
+        "L2-GEN-S7"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "lecture",
+      "course": "Data Communications",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "instructor": "د. شيماء يونس",
+      "room": "Room 1",
+      "day": "Tuesday",
+      "start": 9,
+      "end": 11,
+      "page": 2,
+      "id": "E051",
+      "audience": [
+        "L2-GEN-S1",
+        "L2-GEN-S2",
+        "L2-GEN-S3",
+        "L2-GEN-S4",
+        "L2-GEN-S5",
+        "L2-GEN-S6",
+        "L2-GEN-S7"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "lecture",
+      "course": "Object Oriented Programming",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "instructor": "د. محمد عبد اللطيف",
+      "room": "Room 1",
+      "day": "Tuesday",
+      "start": 11,
+      "end": 13,
+      "page": 2,
+      "id": "E052",
+      "audience": [
+        "L2-GEN-S1",
+        "L2-GEN-S2",
+        "L2-GEN-S3",
+        "L2-GEN-S4",
+        "L2-GEN-S5",
+        "L2-GEN-S6",
+        "L2-GEN-S7"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "lecture",
+      "course": "Probability and Statistics",
+      "sections": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "instructor": "د. منتدب من كلية علوم",
+      "room": "Room 1",
+      "day": "Tuesday",
+      "start": 13,
+      "end": 15,
+      "page": 2,
+      "id": "E053",
+      "audience": [
+        "L2-GEN-S1",
+        "L2-GEN-S2",
+        "L2-GEN-S3",
+        "L2-GEN-S4",
+        "L2-GEN-S5",
+        "L2-GEN-S6",
+        "L2-GEN-S7"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Computer Architecture",
+      "sections": [
+        2
+      ],
+      "instructor": "م. دنيا ياسر",
+      "room": "Lab 7",
+      "day": "Tuesday",
+      "start": 15,
+      "end": 17,
+      "page": 2,
+      "id": "E054",
+      "audience": [
+        "L2-GEN-S2"
+      ]
+    },
+    {
+      "program": "L2-GEN",
+      "program_label": "Level 2 - General",
+      "type": "section",
+      "course": "Computer Architecture",
+      "sections": [
+        7
+      ],
+      "instructor": "م. عبدالرحمن سعد",
+      "room": "Lab 2",
+      "day": "Tuesday",
+      "start": 15,
+      "end": 17,
+      "page": 2,
+      "id": "E055",
+      "audience": [
+        "L2-GEN-S7"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "section",
+      "course": "Computer Graphics Fundamentals",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "م. عبدالرحمن خالد",
+      "room": "Lab 6",
+      "day": "Sunday",
+      "start": 11,
+      "end": 13,
+      "page": 3,
+      "id": "E056",
+      "audience": [
+        "L3-CS-S1",
+        "L3-CS-S2"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "lecture",
+      "course": "Digital Signal Processing",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. ايمان البقري",
+      "room": "Room 1",
+      "day": "Sunday",
+      "start": 13,
+      "end": 15,
+      "page": 3,
+      "id": "E057",
+      "audience": [
+        "L3-CS-S1",
+        "L3-CS-S2"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "lecture",
+      "course": "Image Processing",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. ابتسام عادل",
+      "room": "Auditorium 1",
+      "day": "Sunday",
+      "start": 15,
+      "end": 17,
+      "page": 3,
+      "id": "E058",
+      "audience": [
+        "L3-CS-S1",
+        "L3-CS-S2"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "lecture",
+      "course": "Algorithm Design and Analysis",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. عمرو شاويش",
+      "room": "Classroom 1",
+      "day": "Wednesday",
+      "start": 9,
+      "end": 11,
+      "page": 3,
+      "id": "E059",
+      "audience": [
+        "L3-CS-S1",
+        "L3-CS-S2"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "section",
+      "course": "Digital Signal Processing",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "م. سهيلة إبراهيم",
+      "room": "Lab 4",
+      "day": "Sunday",
+      "start": 9,
+      "end": 11,
+      "page": 3,
+      "id": "E060",
+      "audience": [
+        "L3-CS-S1",
+        "L3-CS-S2"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "lecture",
+      "course": "Neural Networks",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. محمد عبد اللطيف",
+      "room": "Classroom 1",
+      "day": "Tuesday",
+      "start": 9,
+      "end": 11,
+      "page": 3,
+      "id": "E063",
+      "audience": [
+        "L3-CS-S1",
+        "L3-CS-S2"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "section",
+      "course": "Software Engineering",
+      "sections": [
+        1
+      ],
+      "instructor": "م. هدى عاطف",
+      "room": "Lab 1",
+      "day": "Tuesday",
+      "start": 11,
+      "end": 13,
+      "page": 3,
+      "id": "E064",
+      "audience": [
+        "L3-CS-S1"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "section",
+      "course": "Neural Networks",
+      "sections": [
+        2
+      ],
+      "instructor": "م. دنيا ياسر",
+      "room": "Lab 2",
+      "day": "Tuesday",
+      "start": 11,
+      "end": 13,
+      "page": 3,
+      "id": "E065",
+      "audience": [
+        "L3-CS-S2"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "section",
+      "course": "Neural Networks",
+      "sections": [
+        1
+      ],
+      "instructor": "م. دنيا ياسر",
+      "room": "Lab 3",
+      "day": "Tuesday",
+      "start": 13,
+      "end": 15,
+      "page": 3,
+      "id": "E066",
+      "audience": [
+        "L3-CS-S1"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "section",
+      "course": "Software Engineering",
+      "sections": [
+        2
+      ],
+      "instructor": "م. هدى عاطف",
+      "room": "Lab 1",
+      "day": "Tuesday",
+      "start": 13,
+      "end": 15,
+      "page": 3,
+      "id": "E067",
+      "audience": [
+        "L3-CS-S2"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "lecture",
+      "course": "Software Engineering",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "أ.د. عمرو ابو هاني",
+      "room": "Room 1",
+      "day": "Tuesday",
+      "start": 15,
+      "end": 17,
+      "page": 3,
+      "id": "E068",
+      "audience": [
+        "L3-CS-S1",
+        "L3-CS-S2"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "section",
+      "course": "Algorithm Design and Analysis",
+      "sections": [
+        2
+      ],
+      "instructor": "م. محمود الفقي",
+      "room": "Lab 1",
+      "day": "Wednesday",
+      "start": 11,
+      "end": 13,
+      "page": 3,
+      "id": "E070",
+      "audience": [
+        "L3-CS-S2"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "lecture",
+      "course": "Computer Graphics Fundamentals",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. رشا منتصر",
+      "room": "Auditorium 2",
+      "day": "Wednesday",
+      "start": 13,
+      "end": 15,
+      "page": 3,
+      "id": "E071",
+      "audience": [
+        "L3-CS-S1",
+        "L3-CS-S2"
+      ]
+    },
+    {
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "section",
+      "course": "Algorithm Design and Analysis",
+      "sections": [
+        1
+      ],
+      "instructor": "م. محمود الفقي",
+      "room": "Lab 3",
+      "day": "Wednesday",
+      "start": 15,
+      "end": 17,
+      "page": 3,
+      "id": "E072",
+      "audience": [
+        "L3-CS-S1"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "lecture",
+      "course": "Decision Support Systems",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. ابتسام عادل",
+      "room": "Auditorium 1",
+      "day": "Saturday",
+      "start": 9,
+      "end": 11,
+      "page": 4,
+      "id": "E074",
+      "audience": [
+        "L3-IS-S1",
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Information Security",
+      "sections": [
+        2
+      ],
+      "instructor": "م. عماد توفيق",
+      "room": "Computer Lab",
+      "day": "Saturday",
+      "start": 11,
+      "end": 13,
+      "page": 4,
+      "id": "E075",
+      "audience": [
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Decision Support Systems",
+      "sections": [
+        2
+      ],
+      "instructor": "م. مريم",
+      "room": "Lab 4",
+      "day": "Saturday",
+      "start": 13,
+      "end": 15,
+      "page": 4,
+      "id": "E076",
+      "audience": [
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "lecture",
+      "course": "Introduction To Data Science",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. الاء سميح",
+      "room": "Auditorium 2",
+      "day": "Sunday",
+      "start": 9,
+      "end": 11,
+      "page": 4,
+      "id": "E077",
+      "audience": [
+        "L3-IS-S1",
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Information Security",
+      "sections": [
+        1
+      ],
+      "instructor": "م. عماد توفيق",
+      "room": "Lab 7",
+      "day": "Sunday",
+      "start": 11,
+      "end": 13,
+      "page": 4,
+      "id": "E078",
+      "audience": [
+        "L3-IS-S1"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Geographic Information System",
+      "sections": [
+        2
+      ],
+      "instructor": "م. مريم",
+      "room": "Lab 2",
+      "day": "Sunday",
+      "start": 11,
+      "end": 13,
+      "page": 4,
+      "id": "E079",
+      "audience": [
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Decision Support Systems",
+      "sections": [
+        1
+      ],
+      "instructor": "م. مريم",
+      "room": "Lab 7",
+      "day": "Sunday",
+      "start": 13,
+      "end": 15,
+      "page": 4,
+      "id": "E080",
+      "audience": [
+        "L3-IS-S1"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Human Computer Interaction",
+      "sections": [
+        2
+      ],
+      "instructor": "م. مصطفى هندي",
+      "room": "Lab 4",
+      "day": "Sunday",
+      "start": 13,
+      "end": 15,
+      "page": 4,
+      "id": "E081",
+      "audience": [
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Geographic Information System",
+      "sections": [
+        1
+      ],
+      "instructor": "م. مريم",
+      "room": "Lab 3",
+      "day": "Sunday",
+      "start": 15,
+      "end": 17,
+      "page": 4,
+      "id": "E082",
+      "audience": [
+        "L3-IS-S1"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Introduction To Data Science",
+      "sections": [
+        2
+      ],
+      "instructor": "م. محمد يعقوب",
+      "room": "Lab 2",
+      "day": "Sunday",
+      "start": 15,
+      "end": 17,
+      "page": 4,
+      "id": "E083",
+      "audience": [
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Introduction To Data Science",
+      "sections": [
+        1
+      ],
+      "instructor": "م. محمد يعقوب",
+      "room": "Lab 4",
+      "day": "Monday",
+      "start": 9,
+      "end": 11,
+      "page": 4,
+      "id": "E084",
+      "audience": [
+        "L3-IS-S1"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "lecture",
+      "course": "Geographic Information System",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "أ.د. عماد فوزى / د. الاء سميح",
+      "room": "Auditorium 2",
+      "day": "Monday",
+      "start": 11,
+      "end": 13,
+      "page": 4,
+      "id": "E085",
+      "audience": [
+        "L3-IS-S1",
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Human Computer Interaction",
+      "sections": [
+        1
+      ],
+      "instructor": "م. مصطفى هندي",
+      "room": "Lab 7",
+      "day": "Monday",
+      "start": 13,
+      "end": 15,
+      "page": 4,
+      "id": "E086",
+      "audience": [
+        "L3-IS-S1"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Software Engineering",
+      "sections": [
+        1
+      ],
+      "instructor": "م.م ميرنا",
+      "room": "Lab 2",
+      "day": "Monday",
+      "start": 15,
+      "end": 17,
+      "page": 4,
+      "id": "E087",
+      "audience": [
+        "L3-IS-S1"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "section",
+      "course": "Software Engineering",
+      "sections": [
+        2
+      ],
+      "instructor": "م. هدى عاطف",
+      "room": "Lab 2",
+      "day": "Tuesday",
+      "start": 9,
+      "end": 11,
+      "page": 4,
+      "id": "E088",
+      "audience": [
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "lecture",
+      "course": "Human Computer Interaction",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. شيماء يونس",
+      "room": "Auditorium 2",
+      "day": "Tuesday",
+      "start": 11,
+      "end": 13,
+      "page": 4,
+      "id": "E089",
+      "audience": [
+        "L3-IS-S1",
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "lecture",
+      "course": "Information Security",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. شيماء يونس",
+      "room": "Auditorium 1",
+      "day": "Tuesday",
+      "start": 13,
+      "end": 15,
+      "page": 4,
+      "id": "E090",
+      "audience": [
+        "L3-IS-S1",
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IS",
+      "program_label": "Level 3 - Information Systems",
+      "type": "lecture",
+      "course": "Software Engineering",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "أ.د. عمرو ابو هاني",
+      "room": "Room 1",
+      "day": "Tuesday",
+      "start": 15,
+      "end": 17,
+      "page": 4,
+      "id": "E091",
+      "audience": [
+        "L3-IS-S1",
+        "L3-IS-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "section",
+      "course": "Digital Signal Processing",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "م. سهيلة إبراهيم",
+      "room": "Lab 5",
+      "day": "Sunday",
+      "start": 11,
+      "end": 13,
+      "page": 5,
+      "id": "E092",
+      "audience": [
+        "L3-IT-S1",
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "section",
+      "course": "Software Engineering",
+      "sections": [
+        2
+      ],
+      "instructor": "م. محمود الفقي",
+      "room": "Computer Lab",
+      "day": "Wednesday",
+      "start": 13,
+      "end": 15,
+      "page": 5,
+      "id": "E093",
+      "audience": [
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "section",
+      "course": "Web Programming",
+      "sections": [
+        2
+      ],
+      "instructor": "م. عبدالرحمن سعد",
+      "room": "Lab 5",
+      "day": "Tuesday",
+      "start": 9,
+      "end": 11,
+      "page": 5,
+      "id": "E095",
+      "audience": [
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "section",
+      "course": "Human Computer Interaction",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "م. مصطفى هندي",
+      "room": "Lab 5",
+      "day": "Sunday",
+      "start": 9,
+      "end": 11,
+      "page": 5,
+      "id": "E096",
+      "audience": [
+        "L3-IT-S1",
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "lecture",
+      "course": "Digital Signal Processing",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. ايمان البقري",
+      "room": "Room 1",
+      "day": "Sunday",
+      "start": 13,
+      "end": 15,
+      "page": 5,
+      "id": "E098",
+      "audience": [
+        "L3-IT-S1",
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "lecture",
+      "course": "Image Processing",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. ابتسام عادل",
+      "room": "Auditorium 1",
+      "day": "Sunday",
+      "start": 15,
+      "end": 17,
+      "page": 5,
+      "id": "E099",
+      "audience": [
+        "L3-IT-S1",
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "section",
+      "course": "Network Programming",
+      "sections": [
+        1
+      ],
+      "instructor": "م.م ميرنا",
+      "room": "Lab 3",
+      "day": "Tuesday",
+      "start": 9,
+      "end": 11,
+      "page": 5,
+      "id": "E100",
+      "audience": [
+        "L3-IT-S1"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "lecture",
+      "course": "Human Computer Interaction",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. شيماء يونس",
+      "room": "Auditorium 2",
+      "day": "Tuesday",
+      "start": 11,
+      "end": 13,
+      "page": 5,
+      "id": "E101",
+      "audience": [
+        "L3-IT-S1",
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "section",
+      "course": "Web Programming",
+      "sections": [
+        1
+      ],
+      "instructor": "م. عبدالرحمن سعد",
+      "room": "Lab 2",
+      "day": "Tuesday",
+      "start": 13,
+      "end": 15,
+      "page": 5,
+      "id": "E102",
+      "audience": [
+        "L3-IT-S1"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "section",
+      "course": "Network Programming",
+      "sections": [
+        2
+      ],
+      "instructor": "م.م ميرنا",
+      "room": "Lab 5",
+      "day": "Tuesday",
+      "start": 13,
+      "end": 15,
+      "page": 5,
+      "id": "E103",
+      "audience": [
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "lecture",
+      "course": "Software Engineering",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "أ.د. عمرو ابو هاني",
+      "room": "Room 1",
+      "day": "Tuesday",
+      "start": 15,
+      "end": 17,
+      "page": 5,
+      "id": "E104",
+      "audience": [
+        "L3-IT-S1",
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "lecture",
+      "course": "Web Programming",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. رشا منتصر",
+      "room": "Auditorium 2",
+      "day": "Wednesday",
+      "start": 9,
+      "end": 11,
+      "page": 5,
+      "id": "E105",
+      "audience": [
+        "L3-IT-S1",
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "section",
+      "course": "Image Processing",
+      "sections": [
+        1
+      ],
+      "instructor": "م.م اسماء",
+      "room": "Lab 7",
+      "day": "Wednesday",
+      "start": 13,
+      "end": 15,
+      "page": 5,
+      "id": "E106",
+      "audience": [
+        "L3-IT-S1"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "section",
+      "course": "Software Engineering",
+      "sections": [
+        1
+      ],
+      "instructor": "م. هدى عاطف",
+      "room": "Lab 5",
+      "day": "Wednesday",
+      "start": 15,
+      "end": 17,
+      "page": 5,
+      "id": "E107",
+      "audience": [
+        "L3-IT-S1"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "lecture",
+      "course": "Network Programming",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. ولاء محمد",
+      "room": "Auditorium 2",
+      "day": "Wednesday",
+      "start": 11,
+      "end": 13,
+      "page": 5,
+      "id": "E108",
+      "audience": [
+        "L3-IT-S1",
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L3-IT",
+      "program_label": "Level 3 - Information Technology",
+      "type": "section",
+      "course": "Image Processing",
+      "sections": [
+        2
+      ],
+      "instructor": "م.م اسماء",
+      "room": "Lab 4",
+      "day": "Wednesday",
+      "start": 15,
+      "end": 17,
+      "page": 5,
+      "id": "E109",
+      "audience": [
+        "L3-IT-S2"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "section",
+      "course": "Speech Processing",
+      "sections": [
+        1
+      ],
+      "instructor": "م. سهيلة إبراهيم",
+      "room": "Lab 7",
+      "day": "Saturday",
+      "start": 9,
+      "end": 11,
+      "page": 6,
+      "id": "E110",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "section",
+      "course": "Advanced Database",
+      "sections": [
+        1
+      ],
+      "instructor": "م. مريم",
+      "room": "Lab 1",
+      "day": "Saturday",
+      "start": 11,
+      "end": 13,
+      "page": 6,
+      "id": "E111",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "lecture",
+      "course": "Advanced Database",
+      "sections": [
+        1
+      ],
+      "instructor": "د. ابتسام عادل",
+      "room": "Auditorium 1",
+      "day": "Saturday",
+      "start": 13,
+      "end": 15,
+      "page": 6,
+      "id": "E112",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "section",
+      "course": "Machine Learning",
+      "sections": [
+        1
+      ],
+      "instructor": "م. دنيا ياسر",
+      "room": "Lab 4",
+      "day": "Saturday",
+      "start": 15,
+      "end": 17,
+      "page": 6,
+      "id": "E113",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "section",
+      "course": "Wireless and Mobile Computing",
+      "sections": [
+        1
+      ],
+      "instructor": "م. نورهان",
+      "room": "Lab 7",
+      "day": "Sunday",
+      "start": 9,
+      "end": 11,
+      "page": 6,
+      "id": "E114",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "section",
+      "course": "Programming Language Design",
+      "sections": [
+        1
+      ],
+      "instructor": "م. رامي صبحي",
+      "room": "Lab 1",
+      "day": "Sunday",
+      "start": 11,
+      "end": 13,
+      "page": 6,
+      "id": "E115",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "section",
+      "course": "Data Mining",
+      "sections": [
+        1
+      ],
+      "instructor": "م. محمد يعقوب",
+      "room": "Lab 1",
+      "day": "Sunday",
+      "start": 13,
+      "end": 15,
+      "page": 6,
+      "id": "E116",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "lecture",
+      "course": "Wireless and Mobile Computing",
+      "sections": [
+        1
+      ],
+      "instructor": "د. ايمان البقري",
+      "room": "Classroom 1",
+      "day": "Sunday",
+      "start": 15,
+      "end": 17,
+      "page": 6,
+      "id": "E117",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "lecture",
+      "course": "Machine Learning",
+      "sections": [
+        1
+      ],
+      "instructor": "د. محمد عبد اللطيف",
+      "room": "Auditorium 1",
+      "day": "Monday",
+      "start": 9,
+      "end": 11,
+      "page": 6,
+      "id": "E118",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "lecture",
+      "course": "Programming Language Design",
+      "sections": [
+        1
+      ],
+      "instructor": "د. عمرو شاويش",
+      "room": "Classroom 1",
+      "day": "Monday",
+      "start": 11,
+      "end": 13,
+      "page": 6,
+      "id": "E119",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "lecture",
+      "course": "Data Mining",
+      "sections": [
+        1
+      ],
+      "instructor": "د. رشا منتصر",
+      "room": "Auditorium 2",
+      "day": "Monday",
+      "start": 13,
+      "end": 15,
+      "page": 6,
+      "id": "E120",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-CS",
+      "program_label": "Level 4 - Computer Science",
+      "type": "lecture",
+      "course": "Speech Processing",
+      "sections": [
+        1
+      ],
+      "instructor": "د. شيماء يونس",
+      "room": "Auditorium 2",
+      "day": "Monday",
+      "start": 15,
+      "end": 17,
+      "page": 6,
+      "id": "E121",
+      "audience": [
+        "L4-CS-S1"
+      ]
+    },
+    {
+      "program": "L4-IT",
+      "program_label": "Level 4 - Information Technology",
+      "type": "lecture",
+      "course": "Network Analysis and Design",
+      "sections": [
+        1
+      ],
+      "instructor": "د. ولاء محمد",
+      "room": "Auditorium 2",
+      "day": "Saturday",
+      "start": 9,
+      "end": 11,
+      "page": 7,
+      "id": "E122",
+      "audience": [
+        "L4-IT-S1"
+      ]
+    },
+    {
+      "program": "L4-IT",
+      "program_label": "Level 4 - Information Technology",
+      "type": "lecture",
+      "course": "Enterprise Architecture",
+      "sections": [
+        1
+      ],
+      "instructor": "د. ولاء محمد",
+      "room": "Auditorium 2",
+      "day": "Saturday",
+      "start": 11,
+      "end": 13,
+      "page": 7,
+      "id": "E123",
+      "audience": [
+        "L4-IT-S1"
+      ]
+    },
+    {
+      "program": "L4-IT",
+      "program_label": "Level 4 - Information Technology",
+      "type": "lecture",
+      "course": "Advanced Database",
+      "sections": [
+        1
+      ],
+      "instructor": "د. ابتسام عادل",
+      "room": "Auditorium 1",
+      "day": "Saturday",
+      "start": 13,
+      "end": 15,
+      "page": 7,
+      "id": "E124",
+      "audience": [
+        "L4-IT-S1"
+      ]
+    },
+    {
+      "program": "L4-IT",
+      "program_label": "Level 4 - Information Technology",
+      "type": "section",
+      "course": "Advanced Database",
+      "sections": [
+        1
+      ],
+      "instructor": "م. مريم",
+      "room": "Lab 1",
+      "day": "Sunday",
+      "start": 9,
+      "end": 11,
+      "page": 7,
+      "id": "E125",
+      "audience": [
+        "L4-IT-S1"
+      ]
+    },
+    {
+      "program": "L4-IT",
+      "program_label": "Level 4 - Information Technology",
+      "type": "section",
+      "course": "Wireless and Mobile Computing",
+      "sections": [
+        1
+      ],
+      "instructor": "م. نورهان",
+      "room": "Lab 4",
+      "day": "Sunday",
+      "start": 11,
+      "end": 13,
+      "page": 7,
+      "id": "E126",
+      "audience": [
+        "L4-IT-S1"
+      ]
+    },
+    {
+      "program": "L4-IT",
+      "program_label": "Level 4 - Information Technology",
+      "type": "section",
+      "course": "Enterprise Architecture",
+      "sections": [
+        1
+      ],
+      "instructor": "م. رامي صبحي",
+      "room": "Lab 5",
+      "day": "Sunday",
+      "start": 13,
+      "end": 15,
+      "page": 7,
+      "id": "E127",
+      "audience": [
+        "L4-IT-S1"
+      ]
+    },
+    {
+      "program": "L4-IT",
+      "program_label": "Level 4 - Information Technology",
+      "type": "lecture",
+      "course": "Wireless and Mobile Computing",
+      "sections": [
+        1
+      ],
+      "instructor": "د. ايمان البقري",
+      "room": "Classroom 1",
+      "day": "Sunday",
+      "start": 15,
+      "end": 17,
+      "page": 7,
+      "id": "E128",
+      "audience": [
+        "L4-IT-S1"
+      ]
+    },
+    {
+      "program": "L4-IT",
+      "program_label": "Level 4 - Information Technology",
+      "type": "section",
+      "course": "Network Analysis and Design",
+      "sections": [
+        1
+      ],
+      "instructor": "م. سهيلة إبراهيم",
+      "room": "Lab 7",
+      "day": "Monday",
+      "start": 9,
+      "end": 11,
+      "page": 7,
+      "id": "E129",
+      "audience": [
+        "L4-IT-S1"
+      ]
+    },
+    {
+      "program": "L4-IT",
+      "program_label": "Level 4 - Information Technology",
+      "type": "section",
+      "course": "Speech Processing",
+      "sections": [
+        1
+      ],
+      "instructor": "م. سهيلة إبراهيم",
+      "room": "Lab 1",
+      "day": "Monday",
+      "start": 13,
+      "end": 15,
+      "page": 7,
+      "id": "E130",
+      "audience": [
+        "L4-IT-S1"
+      ]
+    },
+    {
+      "program": "L4-IT",
+      "program_label": "Level 4 - Information Technology",
+      "type": "lecture",
+      "course": "Speech Processing",
+      "sections": [
+        1
+      ],
+      "instructor": "د. شيماء يونس",
+      "room": "Auditorium 2",
+      "day": "Monday",
+      "start": 15,
+      "end": 17,
+      "page": 7,
+      "id": "E131",
+      "audience": [
+        "L4-IT-S1"
+      ]
+    },
+    {
+      "program": "L4-IS",
+      "program_label": "Level 4 - Information Systems",
+      "type": "section",
+      "course": "Advanced Database",
+      "sections": [
+        1
+      ],
+      "instructor": "م. مريم",
+      "room": "Lab 3",
+      "day": "Saturday",
+      "start": 9,
+      "end": 11,
+      "page": 8,
+      "id": "E132",
+      "audience": [
+        "L4-IS-S1"
+      ]
+    },
+    {
+      "program": "L4-IS",
+      "program_label": "Level 4 - Information Systems",
+      "type": "lecture",
+      "course": "Enterprise Architecture",
+      "sections": [
+        1
+      ],
+      "instructor": "د. ولاء محمد",
+      "room": "Auditorium 2",
+      "day": "Saturday",
+      "start": 11,
+      "end": 13,
+      "page": 8,
+      "id": "E133",
+      "audience": [
+        "L4-IS-S1"
+      ]
+    },
+    {
+      "program": "L4-IS",
+      "program_label": "Level 4 - Information Systems",
+      "type": "lecture",
+      "course": "Advanced Database",
+      "sections": [
+        1
+      ],
+      "instructor": "د. ابتسام عادل",
+      "room": "Auditorium 1",
+      "day": "Saturday",
+      "start": 13,
+      "end": 15,
+      "page": 8,
+      "id": "E134",
+      "audience": [
+        "L4-IS-S1"
+      ]
+    },
+    {
+      "program": "L4-IS",
+      "program_label": "Level 4 - Information Systems",
+      "type": "lecture",
+      "course": "Database Administration",
+      "sections": [
+        1
+      ],
+      "instructor": "د. الاء سميح",
+      "room": "Classroom 1",
+      "day": "Sunday",
+      "start": 11,
+      "end": 13,
+      "page": 8,
+      "id": "E135",
+      "audience": [
+        "L4-IS-S1"
+      ]
+    },
+    {
+      "program": "L4-IS",
+      "program_label": "Level 4 - Information Systems",
+      "type": "section",
+      "course": "Information Retrieval",
+      "sections": [
+        1
+      ],
+      "instructor": "م. عماد توفيق",
+      "room": "Computer Lab",
+      "day": "Sunday",
+      "start": 13,
+      "end": 15,
+      "page": 8,
+      "id": "E136",
+      "audience": [
+        "L4-IS-S1"
+      ]
+    },
+    {
+      "program": "L4-IS",
+      "program_label": "Level 4 - Information Systems",
+      "type": "section",
+      "course": "Database Administration",
+      "sections": [
+        1
+      ],
+      "instructor": "م. محمد نافع",
+      "room": "Lab 7",
+      "day": "Sunday",
+      "start": 15,
+      "end": 17,
+      "page": 8,
+      "id": "E137",
+      "audience": [
+        "L4-IS-S1"
+      ]
+    },
+    {
+      "program": "L4-IS",
+      "program_label": "Level 4 - Information Systems",
+      "type": "section",
+      "course": "Enterprise Architecture",
+      "sections": [
+        1
+      ],
+      "instructor": "م. عبد الله العربي",
+      "room": "Lab 5",
+      "day": "Monday",
+      "start": 9,
+      "end": 11,
+      "page": 8,
+      "id": "E138",
+      "audience": [
+        "L4-IS-S1"
+      ]
+    },
+    {
+      "program": "L4-IS",
+      "program_label": "Level 4 - Information Systems",
+      "type": "section",
+      "course": "Data Mining",
+      "sections": [
+        1
+      ],
+      "instructor": "م. محمد يعقوب",
+      "room": "Lab 7",
+      "day": "Monday",
+      "start": 11,
+      "end": 13,
+      "page": 8,
+      "id": "E139",
+      "audience": [
+        "L4-IS-S1"
+      ]
+    },
+    {
+      "program": "L4-IS",
+      "program_label": "Level 4 - Information Systems",
+      "type": "lecture",
+      "course": "Data Mining",
+      "sections": [
+        1
+      ],
+      "instructor": "د. رشا منتصر",
+      "room": "Auditorium 2",
+      "day": "Monday",
+      "start": 13,
+      "end": 15,
+      "page": 8,
+      "id": "E140",
+      "audience": [
+        "L4-IS-S1"
+      ]
+    },
+    {
+      "program": "L4-IS",
+      "program_label": "Level 4 - Information Systems",
+      "type": "lecture",
+      "course": "Information Retrieval",
+      "sections": [
+        1
+      ],
+      "instructor": "أ.د. عمرو ابو هاني",
+      "room": "Classroom 1",
+      "day": "Monday",
+      "start": 15,
+      "end": 17,
+      "page": 8,
+      "id": "E141",
+      "audience": [
+        "L4-IS-S1"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Digital Circuits",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "م. يحيى",
+      "room": "Lab 1",
+      "day": "Monday",
+      "start": 9,
+      "end": 11,
+      "page": 9,
+      "id": "E142",
+      "audience": [
+        "AI1-S1",
+        "AI1-S2"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Digital Circuits",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. ايمان البقري",
+      "room": "Auditorium 1",
+      "day": "Monday",
+      "start": 11,
+      "end": 13,
+      "page": 9,
+      "id": "E143",
+      "audience": [
+        "AI1-S1",
+        "AI1-S2"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Creative Thinking and Problem Solving",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. شيماء يونس / أ.د. عمرو ابو هاني",
+      "room": "Classroom 1",
+      "day": "Monday",
+      "start": 13,
+      "end": 15,
+      "page": 9,
+      "id": "E144",
+      "audience": [
+        "AI1-S1",
+        "AI1-S2"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Fundamentals of Programming",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. محمد عبد اللطيف",
+      "room": "Auditorium 1",
+      "day": "Monday",
+      "start": 15,
+      "end": 17,
+      "page": 9,
+      "id": "E145",
+      "audience": [
+        "AI1-S1",
+        "AI1-S2"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Mathematics-1",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. احمد بكير",
+      "room": "Auditorium 1",
+      "day": "Wednesday",
+      "start": 11,
+      "end": 13,
+      "page": 9,
+      "id": "E146",
+      "audience": [
+        "AI1-S1",
+        "AI1-S2"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Communication & Negotiation Skills",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. احمد حلمى",
+      "room": "Auditorium 2",
+      "day": "Thursday",
+      "start": 9,
+      "end": 11,
+      "page": 9,
+      "id": "E147",
+      "audience": [
+        "AI1-S1",
+        "AI1-S2"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Math 0",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. احمد بكير",
+      "room": "Auditorium 1",
+      "day": "Wednesday",
+      "start": 15,
+      "end": 17,
+      "page": 9,
+      "id": "E148",
+      "audience": [
+        "AI1-S1",
+        "AI1-S2"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Computer Networks",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. ولاء محمد",
+      "room": "Auditorium 1",
+      "day": "Wednesday",
+      "start": 13,
+      "end": 15,
+      "page": 9,
+      "id": "E149",
+      "audience": [
+        "AI1-S1",
+        "AI1-S2"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "General English Language",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. اسماء الشحيمى",
+      "room": "Auditorium 1",
+      "day": "Thursday",
+      "start": 11,
+      "end": 13,
+      "page": 9,
+      "id": "E150",
+      "audience": [
+        "AI1-S1",
+        "AI1-S2"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Fundamentals of Programming",
+      "sections": [
+        1
+      ],
+      "instructor": "م. عبدالرحمن سعد",
+      "room": "Lab 1",
+      "day": "Thursday",
+      "start": 15,
+      "end": 17,
+      "page": 9,
+      "id": "E151",
+      "audience": [
+        "AI1-S1"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Computer Networks",
+      "sections": [
+        2
+      ],
+      "instructor": "م. هدى عاطف",
+      "room": "Lab 2",
+      "day": "Wednesday",
+      "start": 9,
+      "end": 11,
+      "page": 9,
+      "id": "E152",
+      "audience": [
+        "AI1-S2"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Computer Networks",
+      "sections": [
+        1
+      ],
+      "instructor": "م. محمود الفقي",
+      "room": "Lab 6",
+      "day": "Wednesday",
+      "start": 9,
+      "end": 11,
+      "page": 9,
+      "id": "E153",
+      "audience": [
+        "AI1-S1"
+      ]
+    },
+    {
+      "program": "AI1",
+      "program_label": "Level 1 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Fundamentals of Programming",
+      "sections": [
+        2
+      ],
+      "instructor": "م. عبدالرحمن سعد",
+      "room": "Lab 1",
+      "day": "Thursday",
+      "start": 13,
+      "end": 15,
+      "page": 9,
+      "id": "E154",
+      "audience": [
+        "AI1-S2"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Database Systems",
+      "sections": [
+        1
+      ],
+      "instructor": "م. محمد نافع",
+      "room": "Lab 3",
+      "day": "Sunday",
+      "start": 9,
+      "end": 11,
+      "page": 10,
+      "id": "E155",
+      "audience": [
+        "AI2-S1"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Information Security",
+      "sections": [
+        2
+      ],
+      "instructor": "م. عماد توفيق",
+      "room": "Lab 2",
+      "day": "Sunday",
+      "start": 9,
+      "end": 11,
+      "page": 10,
+      "id": "E156",
+      "audience": [
+        "AI2-S2"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Logic Design",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. ابتسام عادل",
+      "room": "Auditorium 1",
+      "day": "Sunday",
+      "start": 11,
+      "end": 13,
+      "page": 10,
+      "id": "E157",
+      "audience": [
+        "AI2-S1",
+        "AI2-S2"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Database Systems",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. ابتسام عادل",
+      "room": "Auditorium 1",
+      "day": "Sunday",
+      "start": 13,
+      "end": 15,
+      "page": 10,
+      "id": "E158",
+      "audience": [
+        "AI2-S1",
+        "AI2-S2"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Information Security",
+      "sections": [
+        1
+      ],
+      "instructor": "م. عماد توفيق",
+      "room": "Lab 1",
+      "day": "Sunday",
+      "start": 15,
+      "end": 17,
+      "page": 10,
+      "id": "E159",
+      "audience": [
+        "AI2-S1"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Logic Design",
+      "sections": [
+        2
+      ],
+      "instructor": "م. نورهان",
+      "room": "Electronics Lab",
+      "day": "Sunday",
+      "start": 15,
+      "end": 17,
+      "page": 10,
+      "id": "E160",
+      "audience": [
+        "AI2-S2"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Data Structures and Algorithms",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. رشا منتصر",
+      "room": "Auditorium 2",
+      "day": "Monday",
+      "start": 9,
+      "end": 11,
+      "page": 10,
+      "id": "E161",
+      "audience": [
+        "AI2-S1",
+        "AI2-S2"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Logic Design",
+      "sections": [
+        1
+      ],
+      "instructor": "م. مصطفى هندي",
+      "room": "Electronics Lab",
+      "day": "Monday",
+      "start": 11,
+      "end": 13,
+      "page": 10,
+      "id": "E162",
+      "audience": [
+        "AI2-S1"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Data Structures and Algorithms",
+      "sections": [
+        2
+      ],
+      "instructor": "م. عبدالرحمن خالد",
+      "room": "Lab 6",
+      "day": "Monday",
+      "start": 11,
+      "end": 13,
+      "page": 10,
+      "id": "E163",
+      "audience": [
+        "AI2-S2"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Introduction to Software Engineering",
+      "sections": [
+        1
+      ],
+      "instructor": "م. محمد يعقوب",
+      "room": "Lab 3",
+      "day": "Monday",
+      "start": 13,
+      "end": 15,
+      "page": 10,
+      "id": "E164",
+      "audience": [
+        "AI2-S1"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Database Systems",
+      "sections": [
+        2
+      ],
+      "instructor": "م. محمد نافع",
+      "room": "Lab 2",
+      "day": "Monday",
+      "start": 13,
+      "end": 15,
+      "page": 10,
+      "id": "E165",
+      "audience": [
+        "AI2-S2"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Data Structures and Algorithms",
+      "sections": [
+        1
+      ],
+      "instructor": "م. عبدالرحمن خالد",
+      "room": "Lab 6",
+      "day": "Monday",
+      "start": 15,
+      "end": 17,
+      "page": 10,
+      "id": "E166",
+      "audience": [
+        "AI2-S1"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Statistics & Probabilities",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. احمد بكير",
+      "room": "Auditorium 1",
+      "day": "Tuesday",
+      "start": 9,
+      "end": 11,
+      "page": 10,
+      "id": "E167",
+      "audience": [
+        "AI2-S1",
+        "AI2-S2"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Introduction to Software Engineering",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "أ.د. عمرو ابو هاني",
+      "room": "Auditorium 1",
+      "day": "Tuesday",
+      "start": 11,
+      "end": 13,
+      "page": 10,
+      "id": "E168",
+      "audience": [
+        "AI2-S1",
+        "AI2-S2"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "lecture",
+      "course": "Information Security",
+      "sections": [
+        1,
+        2
+      ],
+      "instructor": "د. شيماء يونس",
+      "room": "Auditorium 1",
+      "day": "Tuesday",
+      "start": 13,
+      "end": 15,
+      "page": 10,
+      "id": "E169",
+      "audience": [
+        "AI2-S1",
+        "AI2-S2"
+      ]
+    },
+    {
+      "program": "AI2",
+      "program_label": "Level 2 - AI & Cybersecurity",
+      "type": "section",
+      "course": "Introduction to Software Engineering",
+      "sections": [
+        2
+      ],
+      "instructor": "م. هدى عاطف",
+      "room": "Lab 5",
+      "day": "Tuesday",
+      "start": 15,
+      "end": 17,
+      "page": 10,
+      "id": "E170",
+      "audience": [
+        "AI2-S2"
+      ]
+    },
+    {
+      "program": "DIP",
+      "program_label": "Diploma",
+      "type": "section",
+      "course": "Databases",
+      "sections": [
+        1
+      ],
+      "instructor": "م. عماد توفيق",
+      "room": "Lab 6",
+      "day": "Saturday",
+      "start": 9,
+      "end": 11,
+      "page": 11,
+      "id": "E171",
+      "audience": [
+        "DIP-S1"
+      ]
+    },
+    {
+      "program": "DIP",
+      "program_label": "Diploma",
+      "type": "section",
+      "course": "Data Analysis",
+      "sections": [
+        1
+      ],
+      "instructor": "م. عبدالرحمن سعد",
+      "room": "Lab 6",
+      "day": "Saturday",
+      "start": 11,
+      "end": 13,
+      "page": 11,
+      "id": "E172",
+      "audience": [
+        "DIP-S1"
+      ]
+    },
+    {
+      "program": "DIP",
+      "program_label": "Diploma",
+      "type": "section",
+      "course": "Programming using Python",
+      "sections": [
+        1
+      ],
+      "instructor": "م. يحيى",
+      "room": "Lab 6",
+      "day": "Saturday",
+      "start": 13,
+      "end": 15,
+      "page": 11,
+      "id": "E173",
+      "audience": [
+        "DIP-S1"
+      ]
+    },
+    {
+      "id": "E745456",
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "section",
+      "course": "Image Processing",
+      "sections": [
+        1
+      ],
+      "instructor": "م.م اسماء",
+      "room": "Lab 3",
+      "day": "Wednesday",
+      "start": 11,
+      "end": 13,
+      "page": 3,
+      "audience": [
+        "L3-CS-S1"
+      ]
+    },
+    {
+      "id": "E793443",
+      "program": "L3-CS",
+      "program_label": "Level 3 - Computer Science",
+      "type": "section",
+      "course": "Image Processing",
+      "sections": [
+        2
+      ],
+      "instructor": "م.م اسماء",
+      "room": "Lab 4",
+      "day": "Wednesday",
+      "start": 15,
+      "end": 17,
+      "page": 3,
+      "audience": [
+        "L3-CS-S2"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "key": "L1-GEN",
+      "label": "Level 1 - General",
+      "arabic": "المستوي الاول (عام)",
+      "groups": 9
+    },
+    {
+      "key": "L2-GEN",
+      "label": "Level 2 - General",
+      "arabic": "المستوي الثاني (عام)",
+      "groups": 7
+    },
+    {
+      "key": "L3-CS",
+      "label": "Level 3 - Computer Science",
+      "arabic": "المستوي الثالث (علوم الحاسب)",
+      "groups": 2
+    },
+    {
+      "key": "L3-IS",
+      "label": "Level 3 - Information Systems",
+      "arabic": "المستوي الثالث (نظم المعلومات)",
+      "groups": 2
+    },
+    {
+      "key": "L3-IT",
+      "label": "Level 3 - Information Technology",
+      "arabic": "المستوي الثالث (تكنولوجيا المعلومات)",
+      "groups": 2
+    },
+    {
+      "key": "L4-CS",
+      "label": "Level 4 - Computer Science",
+      "arabic": "المستوي الرابع (علوم الحاسب)",
+      "groups": 1
+    },
+    {
+      "key": "L4-IT",
+      "label": "Level 4 - Information Technology",
+      "arabic": "المستوي الرابع (تكنولوجيا المعلومات)",
+      "groups": 1
+    },
+    {
+      "key": "L4-IS",
+      "label": "Level 4 - Information Systems",
+      "arabic": "المستوي الرابع (نظم المعلومات)",
+      "groups": 1
+    },
+    {
+      "key": "AI1",
+      "label": "Level 1 - AI & Cybersecurity",
+      "arabic": "المستوي الاول (الذكاء الاصطناعي و الامن السيبراني)",
+      "groups": 2
+    },
+    {
+      "key": "AI2",
+      "label": "Level 2 - AI & Cybersecurity",
+      "arabic": "المستوي الثاني (الذكاء الاصطناعي و الامن السيبراني)",
+      "groups": 2
+    },
+    {
+      "key": "DIP",
+      "label": "Diploma",
+      "arabic": "الدبلومة",
+      "groups": 1
+    }
+  ]
+}
